@@ -1,6 +1,5 @@
 # Product Management API
 
-[![Build Status](https://travis-ci.com/CarlosPuent/product-management-api.svg?branch=master)](https://travis-ci.com/CarlosPuent/product-management-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
@@ -41,3 +40,4 @@ A Spring Boot-based Product Management API that provides RESTful endpoints for m
    ```bash
    git clone https://github.com/CarlosPuent/product-management-api.git
    cd product-management-api
+
